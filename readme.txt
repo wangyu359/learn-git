@@ -1,4 +1,8 @@
 git is a distributed version control system.
 git is a free software distributed under the GPL.
 git has a mutable index called stage.
+<<<<<<< HEAD
 git tracks change of files & hello.
+=======
+git tracks change of files and hello.
+>>>>>>> feature1
